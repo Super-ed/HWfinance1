@@ -1,0 +1,292 @@
+1 ACTIVO O DERECHOS
+11 ACTIVO CORRIENTE
+111 Disponible
+11101 CAJA MONEDA NACIONAL
+1110101 Caja 1
+11102 CAJA MONEDA EXTRANJERA
+1110201 Dólares Norteamericanos
+1110202 Euros
+11103 CAJA CHICA
+1110301 Caja Chica Administración
+1110302 Caja Chica Comercialización
+11103 BANCOS MONEDA NACIONAL
+1110301 B.M.S.C.-MN
+1110302 B.N.B. - MN
+11104 BANCOS MONEDA NACIONAL CON MV (UFV)
+1110401 B.M.S.C.-MN
+1110402 B.N.B.-MN
+11104 BANCOS MONEDA EXTRANJERA
+1110401 B.M.S.C.-ME
+1110402 B.N.B.-ME
+11105 CAJA DE AHORROS MN/ME
+1110501 B.M.S.C.
+1110502 B.N.B.
+11106 DEPÓSITOS A PLAZO FIJO MN/ME
+1110601 B.M.S.C.
+1110602 B.N.B.cuenta
+11107 INVERSIONES AL VALOR RAZONABLE Y DISPONIBLES PARA LA VENTA
+1110701 INVERSIONES AL VALOR RAZONABLE
+111070101 Valores emitidos o garantizados por el Estado
+111070102 Valores emitidos por el sistema financiero 111070103 Valores emitidos por empresas
+111070104 Participaciones en entidades
+1110702 INVERSIONES DISPONIBLES PARA LA VENTA 111070201 Valores emitidos o garantizados por el Estado 111070202 Valores emitidos por el sistema financiero
+111070203 Valores emitidos por empresas
+1110703 Activos financieros - compromiso de compra
+112 Créditos o Exigible
+11201 CUENTAS POR COBRAR (CLIENTES)
+1120101 CUENTAS POR COBRAR EN CARTERA
+112010101 Cliente xx
+112010102 Cliente yy
+1120102 CUENTAS POR COBRAR EN COBRANZA 112010201 Cliente xx
+11202 DOCUMENTOS POR COBRAR
+1120201 DOCUMENTOS POR COBRAR EN CARTERA
+112020101 Cliente xx
+112020102 Cliente yy
+1120202 DOCUMENTOS POR COBRAR EN COBRANZA
+112020201 Cliente xx
+112020202 Cliente yy
+1120203 DOCUMENTOS POR COBRAR EN DESCUENTO
+112020201 Cliente xx
+112020202 Cliente yy
+11203 COBRANZA DUDOSA
+1120301 Cuentas por cobrar
+1120302 Documentos por cobrar
+11204 CUENTAS POR COBRAR COMERCIALES - RELACIONADAS
+1120401 Matriz
+1120402 Subsidiarias
+1120403 Asociadas ernan A
+1120404 Sucursal
+1120405 Cobranza Dudosa
+11205 CUENTAS POR COBRAR AL PERSONAL, A LOS ACCIONISTAS (SOCIOS), DIRECTORES Y GERENTES 11206 PERSONAL DE LA EMPRESA
+1120601 Préstamos
+1120602 Anticipos
+1120603 Deudores con cargo de cuenta
+11207 ACCIONISTAS O SOCIOS
+1120701 Suscripciones por cobrar a socios o
+1120702 accionistas
+1120703 Préstamos
+11208 DIRECTORES Y GERENTES
+11209 COBRANZA DUDOSA
+11210 CUENTAS POR COBRAR (SIN), IMPUESTOS A COMPENSAR Y DIFERIDOS
+1121001 ANTICIPO A PROVEEDORES
+1121002 CRÉDITO FISCAL
+1121003 ANTICIPO DE IMPUESTOS
+1121004 I.U.E. POR COMPENSAR
+1121005 IVA DIFERIDO
+251 (-) PROVISIÓN PARA CUENTAS INCOBRABLES
+113 Bienes de Cambio o Realizable
+11301 EXISTENCIA DE MERCADERIAS
+1130101 Costo
+113010101 Producto Xx
+1130102 Valor razonable
+113010201 Producto xx
+11302 ENVASES Y EMBALAJES
+1130201 Envases
+1130202 Embalajes
+11303 ACTIVOS NO CORRIENTES MANTENIDOS PARA LA VENTA
+1130301 Inversiones inmobiliarios
+1130302 Muebles, Maquinaria y Equipo
+1130303 Vehiculos
+11304 MERCADERÍAS EN TRANSITO (EXISTENCIAS POR RECIBIR)
+1130401 Mercaderías
+1130402 Envases y embalajes
+11306 DESVALORIZACIÓN DE EXISTENCIAS
+1130601 Mercaderías
+1130602 Envases
+1130603 Embalajes
+12 ACTIVO NO CORRIENTE
+121 ACTIVO INMOVILIZADO
+12101 INVERSIONES MOBILIARIAS
+1210101 Inversiones a ser mantenidas hasta el vencimiento
+121010101 Instrumentos financieros representativos de deuda
+121010102 Valores emitidos o garantizados por el Estado
+1210102 Instrumentos financieros representativos de derecho patrimonial
+121010201 Certificados de suscripción preferente
+121010202 Acciones representativas de capital social
+1210103 Acciones de inversión
+121010301 Subsidiarias, asociadas y sucursales
+121010302 Otras
+1210104 Desvalorización de inversiones mobiliarias
+121010401 Inversiones a ser mantenidas hasta el vencimiento
+121010402 Instrumentos financieros representativos de derecho patrimonial
+122 INVERSIONES INMOBILIARIAS
+12201 Terrenos
+1220101 Urbanos
+122010101 Valor razonable
+122010102 Costo
+122010103 Revaluación
+1220102 Rurales
+122010201 Valor razonable
+122010202 Costo
+122010203 Revaluación
+12202 Edificaciones
+1220201 Edificaciones
+122020101 Valor razonable
+122020102 Costo
+122020103 Revaluación
+122020104 Costos de financiación - Inversiones inmobiliarias
+123 ACTIVOS ADQUIRIDOS EN ARRENDAMIENTO FINANCIERO
+12301 Inversiones inmobiliarias
+1230101 Terrenos
+1230102 Edificaciones
+12302 Maquinarias y equipos de explotación
+12303 Equipo de transporte
+12304 Muebles y enseres
+12305 Herramientas y unidades de reemplazo
+124 Bienes de Uso
+12401 TERRENOS
+1240101 Costo
+1240102 Revaluación
+12402 EDIFICIOS
+12403 Edificaciones administrativas
+1240301 Costo de adquisición o producción
+1240302 Revaluación
+1240303 Costo de financiación - Edificaciones
+12404 Almacenes
+1240401 Costo de adquisición o producción
+1240402 Revaluación
+1240403 Costo de financiación - Almacenes
+12405 MUEBLES Y ENSERES
+1240501 Costo de adquisición o producción
+1240502 Revaluación
+1240503 Costo de financiación - Muebles
+12406 VEHICULOS
+1240601 Costo
+1240602 Revaluación
+12407 EQUIPOS DE COMPUTACIÓN
+1240701 Costo
+1240702 Revaluación
+22405 (-) DEPREC. ACUM. BIENES DE USO
+125 Obras en Construcción
+12501 Edificio AA
+126 Intangibles
+12601 CREDITO MERCANTIL
+1260101 Costo
+1260102 Revaluación
+12602 MARCAS DE FÁBRICA
+1260201 Costo
+1260202 Revaluación
+127 DESVALORIZACIÓN DE ACTIVO INMOVILIZADO
+12701 Inversiones mobiliarias
+12702 Inversiones inmobiliarias
+12703 Bienes de uso
+128 ACTIVO DIFERIDO
+12801 TERRENOS PARA FUTURAS CONSTRUCCIONES
+12802 (1) GASTOS PAGADOS POR ADELANTADO
+1280201 Seguros
+1280202 Alquileres
+1280203 Intereses
+1280204 Inv. Material de escritorio
+1280205 Gastos de Publicidad
+1280206 Gastos de Organización
+129 OPERACIONES PENDIENTES
+130 OTROS ACTIVOS
+13001 Bienes de arte y cultura
+1300101 Obras de arte
+1300102 Biblioteca
+140 CUENTAS DE ORDEN
+14001 MERCADERIAS RECIBIDAS EN CONSIGNACIÓN
+14002 VALORES EN GARANTIA 
+2 PASIVO (OBLIGACIONES CON LOS ACREEDORES)
+21 PASIVO CORRIENTE
+211 Deudas comerciales
+21101 CUENTAS POR PAGAR
+2110101 Proveedor XX
+2110102 Proveedor YY
+21102 DOCUMENTOS POR PAGAR
+2110201 Sr. NN
+212 Deudas con el personal
+21201 SUELDOS Y SALARIOS POR PAGAR
+21202 AGUINALDO POR PAGAR
+21203 FINIQUITOS POR PAGAR
+213 Deudas a instituciones de seguridad social y otras
+21301 APORTES Y RETENCIONES POR PAGAR
+2130101 ADM. FONDO DE PENSIONES
+213020101 Previsión BBV
+213020102 El Futuro de Bolivia
+21302 CAJA NACIONAL DE SALUD
+21303 AFPS (Pro Vivienda)
+21304 INSTITUTO DE FORMACIÓN Y CAPACITACIÓN LABORAL
+214 Deudas Fiscales
+21401 SERVICIO DE IMPUESTOS NACIONALES
+2140101 RC-IVA-Dependientes
+2140102 RC-IVA a Terceros
+2140103 I.V.A. a Terceros
+2140104 I.T. a Terceros
+2140105 I.U.E. a Terceros
+2140106 Impuesto a las Transacciones
+2140107 Impuesto sobre Utilidades
+21402 DEBITO FISCAL
+21403 GOBIERNO MUNICIPAL XX
+2140301 Impuesto a la Propiedad de Bienes Inmuebles y Vehículos
+2140302 Impuesto a la Propiedad de Vehículos
+215 Deudas por servicios básicos
+21501 SERVICIOS BÁSICOS POR PAGAR
+2150101 SEMAPA
+2150102 ELFEC S.A
+2150103 COMTECO
+216 Deudas bancarias
+21601 PRÉSTAMOS HIPOTECARIOS
+2160101 Banco Nacional de Bolivia
+21602 PRESTAMOS DOCUMENTARIOS
+21603 DOCUMENTOS POR COBRAR DESCONTADOS
+21604 DOCUMENTOS DESCONTADOS
+217 Otros
+21701, OTROS ACREEDORES
+2170101 Empresas de Transporte, etc.
+218 Ingresos diferidos
+21801 ALQUILERES COBRADOS POR ANTICIPADO
+21802 INTERESES COBRADOS POR ANTICIPADO
+21803 ANTICIPO DE CLIENTES
+22 PASIVO NO CORRIENTE
+221 Obligaciones bancarios
+22101 PRESTAMOS HIPOTECARIOS
+2210101 Banco Nacional de Bolivia
+22102 PRESTAMOS DOCUMENTARIOS 2210201 Obligaciones por emisión de bonos 22103 TESORO GENERAL DE LA NACIÓN 2210301 Bonos
+222 Provisiones
+22201 PROVISIÓN PARA INDEMNIZACIÓN
+223 Otros
+22301 OPERACIONES PENDIENTES
+224 Cuentas complementarias del activo 22401 DEPRECIACIÓN ACUM. EDIFICIOS
+22402 DEPRECIACIÓN ACUM. MUEBLES Y ENSERES
+22403 DEPREC. ACUM. MAQUINARIA Y EQUIPO 22404 DEPREC. ACUM. VEHICULOS
+22405 DEPREC. ACUM. EQUIPOS DE COMPUTACIÓN 22406 PROVISIÓN PARA CUENTA INCOBRABLES
+3 PATRIMONIO O CAPITAL CONTABLE
+31 Patrimonio
+311 Aportes de los socios y otros
+31101 CAPITAL SOCIAL-CAPITAL Sr. N.N.
+31101 RESERVA POR REVALUOS TÉCNICOS
+31102 RESERVAS
+3110201 Reinversión
+3110202 Legal
+3110203 Contractuales
+3110204 Estatutarias
+3110205 Facultativas
+3110206 Ajuste de Reservas Patrimoniales
+31103 AJUSTE DE CAPITAL
+31105 RESULTADOS NO REALIZADOS
+3110501 Diferencia en cambio de inversiones permanentes en entidades extranjeras
+3110502 Instrumentos financieros - cobertura de flujo de efectivo
+3110503 Ganancia o pérdida en activos o pasivos financieros disponibles para la venta 311050301 Ganancia
+311050302 Pérdida
+31106 EXCEDENTE DE REVALUACIÓN
+3110601 Excedente de revaluación
+311060101 Inversiones inmobiliarias
+311060102 Inmuebles, maquinaria y equipos
+311060103 Intangibles
+3110602 Excedente de revaluación - Acciones liberadas recibidas
+3110603 Participación en excedente de revaluación - Inversiones en entidades relacionadas
+31107 RESULTADOS ACUMULADOS
+3110701 Utilidades no distribuidas
+311070101 Utilidades acumuladas
+311070102 Ingresos de años anteriores
+3110702 Pérdidas acumuladas
+311070201 Pérdidas acumuladas
+311070202 Gastos de años anteriores
+350 CUENTAS DE ORDEN
+35002 COMITENTES Y CONSIGNANTES
+35001 DEPOSITANTES DE VALORES EN GARANTIA
+100.000.000 ACTIVO O DERECHOS
+110.000.000 ACTIVO CORRIENTE
+111.000.000 Disponible
+111.010.000 CAJA MONEDA NACIONAL
